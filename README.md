@@ -13,4 +13,4 @@ There are total of two sequences:
 
 ## Methodology
 
-Used backtracking the path for finding all the solutions of levenshtein sequence.
+Used backtracking of the path for finding all the solutions of levenshtein sequence.
