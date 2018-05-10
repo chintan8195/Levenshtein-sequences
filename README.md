@@ -14,3 +14,5 @@ There are total of two sequences:
 ## Methodology
 
 Used backtracking of the path for finding all the solutions of levenshtein sequence.
+* Pose this problem as a DFS problem and try to create a path from root to leaf and store the path in an Arraylist and then store all paths using another arraylist. 
+* Use a recursive method to visit all the nodes until desired node is reached and measure the distance between the desired leaf and the root and show the path from the leaf to the node.
