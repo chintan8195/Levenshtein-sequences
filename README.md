@@ -1,6 +1,6 @@
 # Levenshtein-sequences
 
-Implement a program in Java to list all possible Levenshtein (i.e., edit distance) sequences from one string to another with optimal number of inserts/deletes/replaces and also handle various error handling .
+Implemented a program in Java to list all possible Levenshtein (i.e., edit distance) sequences from one string to another with optimal number of inserts/deletes/replaces and also handle various error handling .
 
 ## Input Example:
 paris
